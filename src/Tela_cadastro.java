@@ -20,7 +20,7 @@ public class Tela_cadastro extends JFrame implements ActionListener {
 
     // definindo os componentes da tela são configurados dentro do construtor
     // texto titulo
-    JLabel texto_titulo = new JLabel("Restaurante x");
+    JLabel texto_titulo = new JLabel("Restaurante");
     // texto registre-se
     JLabel texto_registrese = new JLabel("Registre-se");
     // texto ao lado dos inputs

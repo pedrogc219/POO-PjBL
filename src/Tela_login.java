@@ -20,7 +20,7 @@ public class Tela_login extends JFrame implements ActionListener {
 
         // definindo os componentes da tela são configurados dentro do construtor
     // texto titulo
-    JLabel texto_titulo = new JLabel("Restaurante xyz");
+    JLabel texto_titulo = new JLabel("Restaurante");
     // texto login
     JLabel texto_login = new JLabel("Login");
     // texto ao lado dos inputs
